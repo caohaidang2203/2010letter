@@ -296,7 +296,7 @@ body {
   }
   50%,
   100% {
-    transform: translateX(50px);
+    transform: translateX(30px);
   }
 }
 .boxHeart {
@@ -501,9 +501,9 @@ body {
 }
 .giftbox .img {
   position: absolute;
-  width: 180px;
-  bottom: 30%;
-  /* left: 10px; */
+  width: 170px;
+  bottom: 20%;
+  left: -10px;
   z-index: 100;
 }
 .giftbox img {
